@@ -1,4 +1,4 @@
-# Linkedin_Data_Proj
+# Industry/Location Based Internship Demand and Comaptition Estimator: Project Overview
 
 ## rescources
 
