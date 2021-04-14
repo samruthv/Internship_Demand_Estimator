@@ -24,14 +24,14 @@ In order to collect a wide variaty of data, the bot that we build for scrapingwe
 
 Here is a list of information that we scraped from each individualk job posting:
 
--Company Name
--Job Location
--Posted Time
--Number Of Applicants
--Seniority Level
--Employment Type
--Job Function
--Industries
+- Company Name
+- Job Location
+- Posted Time
+- Number Of Applicants
+- Seniority Level
+- Employment Type
+- Job Function
+- Industries
 
 **Email:** samruthv@gmail.com
 **Phone Number:** 732-317-9426
