@@ -1,4 +1,4 @@
-# Industry/Location Based Internship Demand and Comaptition Estimator: Project Overview
+# Industry/Location Based Internship Demand Estimator: Project Overview
 
 ## rescources
 
