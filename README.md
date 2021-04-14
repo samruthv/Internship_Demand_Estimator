@@ -7,7 +7,7 @@
 - Using Flask made a client facing API that can is AWS accessible.
 
 ## Code
-**Python**: Version 3.7.6
+**Python**: Version 3.7.6  
 **Packages**: Numpy, Pandas, Sklearn, matplotib, selinium, seaborn, beautifulsoup, flask, pickle, json 
 
 
