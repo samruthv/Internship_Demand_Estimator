@@ -41,47 +41,8 @@ list of information that we scraped from each individual job posting:
 In order to get the best reaults from our model building and EDA, I cleaned the Data to be easy to read and manipulate. The first step of cleaning throught the job postings was to go through and delete all the repeating postings. After, using the location I catogorized each application into a a state catogory. Using keywords from the scraped industry catagory, I was able to block job postings under my indutries catigories.
 
 List of Industries:
+https://github.com/samruthv/LinkedIn_DataScience_Project/blob/main/Additional%20Files/List%20of%20Industries
 
-- Accommodation and Food Services
-- Administration
-- Business Support and Waste Management Services
-- Agriculture
-- Forestry
-- Fishing and Hunting
-- Arts
-- Entertainment and Recreation
-- Construction
-- Educational Services
-- Finance and Insurance
-- Healthcare and Social Assistance
-- Information
-- Manufacturing
-- Mining
-- Professional
-- Scientific and Technical Services
-- Real Estate and Rental and Leasing
-- Retail Trade
-- Transportation and Warehousing
-- Utilities
-- Wholesale Trade
-- Advisory and Financial Services
-- Business Franchises
-- Consumer Goods and Services
-- Industrial Machinery, Gas and Chemicals
-- Life Sciences
-- Online Retail
-- Retail Market Reports
-- Specialist Engineering
-- Infrastructure and Contractors
-- Technology
-- Energy
-- Politics
-- Pharmaceutical
-- Defense
-- Nonprofit
-- environmental
-- civic
-- Cosmetics and Apperel
 
 **Email:** samruthv@gmail.com
 **Phone Number:** 732-317-9426
