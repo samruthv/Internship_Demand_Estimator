@@ -22,7 +22,7 @@ In order to collect a wide variaty of data, the bot that we build for scrapingwe
 
 https://github.com/samruthv/LinkedIn_DataScience_Project/blob/main/Additional%20Files/LinkedIn%20Scraper%20Search%20Inputs
 
-Here is a list of information that we scraped from each individualk job posting:
+Here is a list of information that we scraped from each individual job posting:
 
 - Company Name
 - Job Location
