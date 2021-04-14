@@ -22,5 +22,16 @@ In order to collect a wide variaty of data, the bot that we build for scrapingwe
 
 *[Intern,Design Internship jobs,Management Intern job,Mechanical Engineering Intern jobs,Electrical Engineering Intern jobs,Chemical Engineering Intern jobs,Systems Engineering Intern jobs,Quality Engineering Intern job,Software Engineering Intern jobs,research Engineering Intern jobs,Industrial Engineering Intern jobs,Manufacturing Engineering Intern jobs,Psychology Intern jobs,Information Intern jobs,Biology Intern jobs,Human Resources Intern jobs,Communications Intern jobs,Medical Intern jobs,nurse Intern jobs,Finance Intern job,Economics Intern jobs,Public Health Intern Jobs,Exercise Science Intern Jobs,Logistics Intern Jobs,Materials Intern Jobs,Supply Chain Intern Jobs,Electronics Intern Jobs,Criminal Justice Intern Jobs,safety Intern Jobs,Politics Intern Jobs,Journalism Intern Jobs,Labor Intern Job,Accounting Intern Jobs,English Intern Jobs,Education Intern Jobs,Marketing Intern Jobs,Sales Intern Jobs,History Intern Jobs,Mathamatics Intern Jobs,Data Science Intern Jobs,Animal Intern,Human Rights Intern,Biomedical Intern,Bioengineering Intern,Health Intern,Management Intern,Civil Engineering Intern,Structural Intern,nutrition science Intern,Social Work Intern,Physics Intern,astronomy Intern,chemistry Intern,sports Intern,music Intern,Statistics Intern,sociology Intern,art Intern,UI Intern,UX Intern,Environment Intern,Policy Intern,Drama Intern,Theatre Intern,molecular biology Intern,Biotechnology Intern,philosophy Intern,Food Science Intern,Design Intern,Business Intern,Business administration Intern,Biochemistry Intern,Linguistics Intern,Anthropology Intern,Dance Intern,Ceramic Intern,Plant Science Inter,cinema Intern,film Intern,media Intern,PR Inter,microbiology Intern,policy,Urban Intern,Architecture Intern,marine biology Intern,Astrophysics Intern,geology Intern,spanish Intern,Biometry Intern,Cognative Intern,Geography Intern,Therapeutics Intern,Agriculture Intern,Language Intern,Student Intern,Summer Intern,Tech Intern,Non Tech Intern,food Intern,Culinary Intern,clothing Intern]*
 
+Here is a list of information that we scraped from each individualk job posting:
+
+-Company Name
+-Job Location
+-Posted Time
+-Number Of Applicants
+-Seniority Level
+-Employment Type
+-Job Function
+-Industries
+
 **Email:** samruthv@gmail.com
 **Phone Number:** 732-317-9426
