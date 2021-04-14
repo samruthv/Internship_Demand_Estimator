@@ -1,4 +1,4 @@
-###**Why?**
+### **Why?**
 *One of my greatest passions is education. Not only the education that recieved in the lecture rooms, but also the practical hands on expirince one gets during internships and co-ops inbetweeen or during the school year. As a former undergrad student myself I have seen how stressful and intimidating trying to get your first internship can be. I wanted to create a model that really show and understand the vast data of students around the country sending application into the job force.*
 # Internship Demand Estimator(Based on Industry/Location): Overview
 - Created a model the estimated the number of intern applicants for a job posting based on job location and industry.
