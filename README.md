@@ -48,5 +48,9 @@ https://github.com/samruthv/LinkedIn_DataScience_Project/blob/main/Additional%20
 
 Before creating a model, I was able to use data visualization tools in Python to really understand the data. This analysis was important to interperate the data so we know what data to use and what models we want to make. Here is some cool data that I found:
 
+## Model
+
+## Model API
+
 **Email:** samruthv@gmail.com
 **Phone Number:** 732-317-9426
