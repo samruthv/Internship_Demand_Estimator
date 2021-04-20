@@ -16,7 +16,7 @@
 https://www.linkedin.com/pulse/how-easy-scraping-data-from-linkedin-profiles-david-craven
 https://www.ibisworld.com/united-states/list-of-industries/
 
-## Contact Information
+
 
 ## Data Scraping
 In order to collect a wide variaty of data, the bot that we build for scrapingwent through a large variaty of internship inputs to recienve all different types of internship posting. It was also cruicial that I didnt sign into any linkedIn account when scraping because we did not want our account data to manipulate search results. In order to get even better data, it may have been benificial to run the scrapper through a VPN. 
@@ -52,5 +52,9 @@ Before creating a model, I was able to use data visualization tools in Python to
 
 ## Model API
 
+## Contact Information
+
 **Email:** samruthv@gmail.com
 **Phone Number:** 732-317-9426
+
+https://public.tableau.com/profile/samruth.vennapusala#!/
