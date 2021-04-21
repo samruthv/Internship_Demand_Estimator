@@ -57,7 +57,7 @@ Here are the top 20 companies that are using linkedin for Internship Postings
 
 Number of Internship Postings vs Company:
 
-<img src="Additional%20Files/Top20Companies.png" width="400" >
+<img src="Additional%20Files/Top20Companies.png" width="300" >
 
 Correlation between how long the application was posted and how many applicants applied. We bviously fond a strong correlation.
 
