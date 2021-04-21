@@ -50,7 +50,11 @@ list of information that we scraped from each individual job posting:
 - Job Function
 - Industries
 
-<img src="Additional%20Files/Top20Companies.png" width="900" >
+Here are the top 20 companies that are using linkedin for Internship Postings
+
+Number of Internship Postings vs Company:
+
+<img src="Additional%20Files/Top20Companies.png" width="400" >
 
 ## Data Cleaning
 
@@ -60,8 +64,8 @@ List of Industries:
 
 https://github.com/samruthv/LinkedIn_DataScience_Project/blob/main/Additional%20Files/List%20of%20Industries
 
-<img src="Additional%20Files/industry_vs_applicants_per_posting.PNG" width="900" >
-<img src="Additional%20Files/industry_vs_job_postings.PNG" width="900" >
+<img src="Additional%20Files/industry_vs_applicants_per_posting.PNG" width="600" >
+<img src="Additional%20Files/industry_vs_job_postings.PNG" width="600" >
 
 ## Data Analysis
 
