@@ -15,7 +15,7 @@
 </p>
 <p align="center">
  
-  *The above image shows the location of the job postings by the state. We can see the states like California, New York and Texas are higher while states like Montana, Mississippi, and Kentuky are lower. Exploratory Data like this helped us create our model.*
+  *The above image shows the location of the job postings by the state. We can see that states like California, New York and Texas are more oppertunity while states like Montana, Mississippi, and Kentuky are less. Exploratory Data like this helped us create our model.*
 </p>
 
 
