@@ -93,8 +93,11 @@ We were able to anylise where industires were promanat through aout america. Thi
 We also wanted to looking into into the relation between the comaptiona an applicant will see in an idtry by state and also the oppertunity there is in that state for this industry.
 
 Intern Job Postings in Tech by State[Opperunity]:
+
 <img src="Additional%20Files/Tech_comapation_image.PNG" width="400" >
+
 Avererage number of applicants per Job Posting in Tech by State[Demand]:
+
 <img src="Additional%20Files/Tech_demand_image.PNG" width="400" >
 
 
