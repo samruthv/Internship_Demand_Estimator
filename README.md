@@ -50,6 +50,8 @@ list of information that we scraped from each individual job posting:
 - Job Function
 - Industries
 
+<img src="Additional%20Files/Top20Companies.png" width="900" >
+
 ## Data Cleaning
 
 In order to get the best reaults from our model building and EDA, I cleaned the Data to be easy to read and manipulate. The first step of cleaning throught the job postings was to go through and delete all the repeating postings. After, using the location I catogorized each application into a a state catogory. Using keywords from the scraped industry catagory, I was able to block job postings under my indutries catigories.
@@ -58,22 +60,21 @@ List of Industries:
 
 https://github.com/samruthv/LinkedIn_DataScience_Project/blob/main/Additional%20Files/List%20of%20Industries
 
+<img src="Additional%20Files/industry_vs_applicants_per_posting.PNG" width="900" >
+<img src="Additional%20Files/industry_vs_job_postings.PNG" width="900" >
+
 ## Data Analysis
 
 Before creating a model, I was able to use data visualization tools in Python to really understand the data. This analysis was important to interperate the data so we know what data to use and what models we want to make. Here is some cool data that I found:
 
-<img src="Additional%20Files/total_postings_mainland.PNG" width="900" >
-<img src="Additional%20Files/total_postings_alaska.PNG" width="300" >
-<img src="Additional%20Files/total_postings_hawaii.PNG" width="100" >
 
 <img src="Additional%20Files/Noprofit_image.PNG" width="900" >
 <img src="Additional%20Files/Pharma_image.PNG" width="900" >
 <img src="Additional%20Files/Tech_image.PNG" width="900" >
 <img src="Additional%20Files/Tech_comapation_image.PNG" width="900" >
 <img src="Additional%20Files/Tech_demand_image.PNG" width="900" >
-<img src="Additional%20Files/Top20Companies.png" width="900" >
-<img src="Additional%20Files/industry_vs_applicants_per_posting.PNG" width="900" >
-<img src="Additional%20Files/industry_vs_job_postings.PNG" width="900" >
+
+
 <img src="Additional%20Files/Coorelation.png" width="900" >
 
 
