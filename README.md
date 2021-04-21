@@ -83,8 +83,11 @@ Before creating a model, I was able to use data visualization tools in Python to
 <p align="left">
   Job Posting Data by State
 </p>
+
+<p align="right">Technology</p><p align="center">Technology</p>
+
 <p align="center">
-  <Technology align="left"> Nonprofit Pharmacuticals
+  <p align="right" "heloo"> Technology align="left" Nonprofit Pharmacuticals
 </p>
 
 <p align="center">
