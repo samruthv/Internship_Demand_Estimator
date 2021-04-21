@@ -80,6 +80,17 @@ Industry vs. Average Number of Applicants per Internship Job Posting
 
 Before creating a model, I was able to use data visualization tools in Python to really understand the data. This analysis was important to interperate the data so we know what data to use and what models we want to make. Here is some cool data that I found:
 
+<div class="text-red bg-red-light mb-2">
+  .text-red on .bg-red-light
+</div>
+
+<div class="bg-green-light mb-2">
+  .text-gray-dark on .bg-green-light
+</div>
+
+<div class="bg-purple-light mb-2">
+  .text-gray-dark on .bg-green-light
+</div>
 
 <p align="center">
   Technology    |     Nonprofit    |     Pharmacuticals
