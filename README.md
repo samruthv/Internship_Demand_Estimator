@@ -106,7 +106,9 @@ Average Number of Applicants per Job Posting in Tech by State[Demand]:
 
 <img src="Additional%20Files/Tech_demand_image.PNG" width="400" >
 
-*We find that just because there is a lot of oppeturnity in a state, it does not mean that there will be a related demand for it.
+
+**We find that just because there is a lot of oppeturnity in a state, it does not mean that there will be a related demand for it.
+
 
 
 
