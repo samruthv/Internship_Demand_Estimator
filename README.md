@@ -23,6 +23,7 @@
 ## Code
 **Python**: Version 3.7.6  
 **Packages**: Numpy, Pandas, Sklearn, matplotib, selinium, seaborn, beautifulsoup, flask, pickle, json 
+
 **Tableau**: https://public.tableau.com/profile/samruth.vennapusala#!/
 
 ## Rescources
@@ -79,8 +80,11 @@ Industry vs. Average Number of Applicants per Internship Job Posting
 
 Before creating a model, I was able to use data visualization tools in Python to really understand the data. This analysis was important to interperate the data so we know what data to use and what models we want to make. Here is some cool data that I found:
 
+<p align="left">
+  Job Posting Data by State
+</p>
 <p align="center">
-  <Job Posting Data by State>
+  <Technology align="left"> Nonprofit Pharmacuticals
 </p>
 
 <p align="center">
