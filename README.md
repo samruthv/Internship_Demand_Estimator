@@ -72,17 +72,13 @@ https://github.com/samruthv/LinkedIn_DataScience_Project/blob/main/Additional%20
 Before creating a model, I was able to use data visualization tools in Python to really understand the data. This analysis was important to interperate the data so we know what data to use and what models we want to make. Here is some cool data that I found:
 
 
-<img src="Additional%20Files/Noprofit_image.PNG" width="900" >
-<img src="Additional%20Files/Pharma_image.PNG" width="900" >
-<img src="Additional%20Files/Tech_image.PNG" width="900" >
-<img src="Additional%20Files/Tech_comapation_image.PNG" width="900" >
-<img src="Additional%20Files/Tech_demand_image.PNG" width="900" >
+<img src="Additional%20Files/Noprofit_image.PNG" width="300" >
+<img src="Additional%20Files/Pharma_image.PNG" width="300" >
+<img src="Additional%20Files/Tech_image.PNG" width="300" >
+<img src="Additional%20Files/Tech_comapation_image.PNG" width="300" >
+<img src="Additional%20Files/Tech_demand_image.PNG" width="300" >
+<img src="Additional%20Files/Coorelation.png" width="300" >
 
-
-<img src="Additional%20Files/Coorelation.png" width="900" >
-
-
-![](Additional%20Files/Noprofit_image.PNG)
 
 ## Model
 
