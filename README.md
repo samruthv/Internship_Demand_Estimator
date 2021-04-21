@@ -81,7 +81,11 @@ Before creating a model, I was able to use data visualization tools in Python to
 
 
 
-<img src="Additional%20Files/Noprofit_image.PNG" width="300" align="right" > <img src="Additional%20Files/Pharma_image.PNG" width="300" align="right" > <img src="Additional%20Files/Tech_image.PNG" width="300" align="left" >
+<img src="Additional%20Files/Noprofit_image.PNG" width="300" align="center" > <img src="Additional%20Files/Pharma_image.PNG" width="300" align="right" > <img src="Additional%20Files/Tech_image.PNG" width="300" align="left" >
+
+<p align="center">
+  <img width="400" src="Additional%20Files/Noprofit_image.PNG">
+</p>
 
 <img src="Additional%20Files/Pharma_image.PNG" width="300" >
 <img src="Additional%20Files/Tech_image.PNG" width="300" >
