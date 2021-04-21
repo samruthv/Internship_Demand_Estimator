@@ -138,6 +138,7 @@ In this step, I built a flask API endpoint that was hosted on a local webserver 
 
 ## Contact Information
 
-**Email:** samruthv@gmail.com
-**Phone Number:** 732-317-9426
+**Email:** samruthv@gmail.com   
+**LinkedIn:** https://www.linkedin.com/in/samruthv/
+
 
