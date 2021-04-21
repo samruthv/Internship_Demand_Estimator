@@ -1,7 +1,7 @@
-  *I am a firm beliver that knowlegde leads to prosperity and am greatly passionate about education. Not only the education that is recieved in the lecture rooms, but also the practical, hands on expirince one gets during internships and co-ops inbetweeen the school year. As a former undergrad student myself I have seen how stressful and intimidating trying to land your first internship can be. I wanted to create a model that really shows and understands the vast data of students around the country sending application into the massive void of the job force.*
-# Internship Demand Estimator(Based on Industry/Location): Overview
+  *I am a firm believer that knowledge leads to prosperity and am greatly passionate about education. Not only the education that is received in the lecture rooms, but also the practical, hands on experience one gets during internships and co-ops in between the school year. As a former undergrad student, I have seen how stressful and intimidating trying to land your first internship can be. I wanted to create a model that really shows and understands the vast data of students around the country sending application into the massive void of the job force.*
+# Internship Demand Estimator (Based on Industry/Location): Overview
 - Created a model the estimated the number of intern applicants for a job posting based on job location and industry. (Mean Absolute Error - 25.1 applications)
-- Cleaned and organized data in Pandas to create the best possible Data Frame to use for exploritory data analysis and model building.
+- Cleaned and organized data in Pandas to create the best possible Data Frame to use for exploratory data analysis and model building.
 - Scrapped 10,000 job postings from LinkedIn using Selenium and BeautifulSoup
 - Created different models: Linear Regression, Lasso Regression and Random Forest. Formulated a better Model by optimizing using GridsearchCV. 
 - Using Flask made a client facing API that can is AWS accessible.
@@ -15,7 +15,7 @@
 </p>
 <p align="center">
  
-  *The above image shows the location of the job postings by the state. We can see that states like California, New York and Texas are more oppertunity while states like Montana, Mississippi, and Kentuky are less. Exploratory Data like this helped us create our model.*
+  *The above image shows the location of the job postings by the state. We can see that states like California, New York and Texas have more opportunity while states like Montana, Mississippi, and Kentucky have less. Exploratory Data like this helped us create our model.*
 </p>
 
 
@@ -25,7 +25,7 @@
 **Packages**: Numpy, Pandas, Sklearn, matplotib, selinium, seaborn, beautifulsoup, flask, pickle, json    
 **Tableau**: https://public.tableau.com/profile/samruth.vennapusala#!/
 
-## Rescources
+## Resources
 
 https://www.linkedin.com/pulse/how-easy-scraping-data-from-linkedin-profiles-david-craven
 https://www.ibisworld.com/united-states/list-of-industries/
@@ -33,9 +33,9 @@ https://www.ibisworld.com/united-states/list-of-industries/
 
 
 ## Data Scraping
-In order to collect a wide variaty of data, the bot that we build for scrapingwent through a large variaty of internship inputs to recienve all different types of internship posting. It was also cruicial that I didnt sign into any linkedIn account when scraping because we did not want our account data to manipulate search results. In order to get even better data, it may have been benificial to run the scrapper through a VPN. 
+To collect a wide variety of data, the bot that we build for scraping went through a large variety of internship inputs to receive all different types of internship posting. It was also crucial that I didn’t sign into any LinkedIn account when scraping because we did not want our account data to manipulate search results. To get even better data, it may have been beneficial to run the scrapper through a VPN. 
 
-list of different inputs we searched for during our scraping proccess:
+list of different inputs we searched for during our scraping process:
 
 https://github.com/samruthv/LinkedIn_DataScience_Project/blob/main/Additional%20Files/LinkedIn%20Scraper%20Search%20Inputs
 
@@ -44,33 +44,33 @@ list of information that we scraped from each individual job posting:
 - Company Name
 - Job Location
 - Posted Time
-- Number Of Applicants
+- Number of Applicants
 - Seniority Level
 - Employment Type
 - Job Function
 - Industries
 
-We analysied some of these information later in our analysis phase and found some internesting information that would help in our modeling phase.
+We analyzed some of this information later in our analysis phase and found some interesting information that would help in our modeling phase.
 
-Here are the top 20 companies that are using linkedin for Internship Postings
+Here are the top 20 companies that are using LinkedIn for internship postings
 
 Number of Internship Postings vs Company:
 
 <img src="Additional%20Files/Top20Companies.png" width="300" >
 
-Correlation between how long the application was posted and how many applicants applied. We bviously fond a strong correlation.
+Correlation between how long the application was posted and how many applicants applied. We obviously found a strong correlation.
 
 <img src="Additional%20Files/Coorelation.png" width="300" >
 
 ## Data Cleaning
 
-In order to get the best reaults from our model building and EDA, I cleaned the Data to be easy to read and manipulate. The first step of cleaning throught the job postings was to go through and delete all the repeating postings. After, using the location I catogorized each application into a a state catogory. Using keywords from the scraped industry catagory, I was able to block job postings under my indutries catigories.
+To get the best results from our model building and EDA, I cleaned the data to be easy to read and manipulate. The first step of cleaning through the job postings was to go through and delete all the repeating postings. After, using the location I categorize each application into a state category. Using keywords from the scraped industry category, I was able to block job postings under my industries categories.
 
 List of Industries:
 
 https://github.com/samruthv/LinkedIn_DataScience_Project/blob/main/Additional%20Files/List%20of%20Industries
 
-Here is whow the relationship between Industry and job application looks like. We can see that just because there are more oppertunities in ceratin industires does not coorelate to applicants per application.
+Here is how the relationship between Industry and job application looks like. We can see that just because there are more opportunities in certain industries does not correlate to applicants per application.
 
 Industry vs. Number of Internship Job Postings:
 
@@ -83,12 +83,12 @@ Industry vs. Average Number of Applicants per Internship Job Posting
 
 ## Data Analysis
 
-Before creating a model, I was able to use data visualization tools in Python to really understand the data. This analysis was important to interperate the data so we know what data to use and what models we want to make. Here is some cool data that I found:
+Before creating a model, I was able to use data visualization tools in Python to really understand the data. This analysis was important to interpret the data, so we know what data to use and what models we want to make. Here is some cool data that I found:
 
-We were able to anylise where industires were promanat through aout america. This was also a key aspect to our model in estimating applicants in regards to both the state and the industry. Below we visualize 3 indutries and their footprint across America.
+We were able to analyze where industries were prominent throughout America. This was also a key aspect to our model in estimating applicants regarding both the state and the industry. Below we visualize 3 industries and their footprint across America.
 
 <p align="center">
-  Technology    |     Nonprofit    |     Pharmacuticals
+  Technology    |     Nonprofit    |     Pharmaceuticals
 </p>
 
 <p align="center">
@@ -96,18 +96,18 @@ We were able to anylise where industires were promanat through aout america. Thi
 </p>
 
 
-We also wanted to looking into into the relation between the comaption an applicant will see in an idtry by state and also the oppertunity there is in that state for this industry.
+We also wanted to investigate the relation between the competition in an industry by state and also the opportunity there is in that state for this industry.
 
-Intern Job Postings in Tech by State[Opperunity]:
+Intern Job Postings in Tech by State [Opperunity]:
 
 <img src="Additional%20Files/Tech_comapation_image.PNG" width="400" >
 
-Average Number of Applicants per Job Posting in Tech by State[Demand]:
+Average Number of Applicants per Job Posting in Tech by State [Demand]:
 
 <img src="Additional%20Files/Tech_demand_image.PNG" width="400" >
 
 
-*We find that just because there is a lot of oppeturnity in a state, it does not mean that there will be a related demand for it.*
+*We find that just because there is a lot of opportunity in a state, it does not mean that there will be a related demand for it.*
 
 
 
