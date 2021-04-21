@@ -96,6 +96,10 @@ We were able to anylise where industires were promanat through aout america. Thi
   <img width="300" src="Additional%20Files/Noprofit_image.PNG"> <img src="Additional%20Files/Pharma_image.PNG" width="300" align="right" > <img src="Additional%20Files/Tech_image.PNG" width="300" align="left" >
 </p>
 
+<p align="center">
+  <img width="300" src="Additional%20Files/Noprofit_image.PNG"> <img src="Additional%20Files/Pharma_image.PNG" width="300" align="right" > <img src="Additional%20Files/Tech_image.PNG" width="300" align="left" >
+</p>
+
 We also wanted to looking into into the relation between the comaption an applicant will see in an idtry by state and also the oppertunity there is in that state for this industry.
 
 Intern Job Postings in Tech by State[Opperunity]:
