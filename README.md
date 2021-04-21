@@ -6,6 +6,20 @@
 - Created different models: Linear Regression, Lasso Regression and Random Forest. Formulated a better Model by optimizing using GridsearchCV. 
 - Using Flask made a client facing API that can is AWS accessible.
 
+<p align="center">
+  Job Posting Data by State
+</p>
+
+<p align="center">
+  <img width="400" src="Additional%20Files/total_postings_mainland.PNG">
+</p>
+<p align="center">
+ 
+  *The above image shows the location of the job postings by the state. We can see the states like California, New York and Texas are higher while states like Montana, Mississippi, and Kentuky are lower. Exploratory Data like this helped us create our model.*
+</p>
+
+
+
 ## Code
 **Python**: Version 3.7.6  
 **Packages**: Numpy, Pandas, Sklearn, matplotib, selinium, seaborn, beautifulsoup, flask, pickle, json 
@@ -48,6 +62,9 @@ https://github.com/samruthv/LinkedIn_DataScience_Project/blob/main/Additional%20
 
 Before creating a model, I was able to use data visualization tools in Python to really understand the data. This analysis was important to interperate the data so we know what data to use and what models we want to make. Here is some cool data that I found:
 
+<img src="Additional%20Files/total_postings_mainland.PNG" width="900" >
+<img src="Additional%20Files/total_postings_alaska.PNG" width="300" >
+<img src="Additional%20Files/total_postings_hawaii.PNG" width="100" >
 
 <img src="Additional%20Files/Noprofit_image.PNG" width="900" >
 <img src="Additional%20Files/Pharma_image.PNG" width="900" >
