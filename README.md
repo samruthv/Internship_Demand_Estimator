@@ -80,17 +80,7 @@ Industry vs. Average Number of Applicants per Internship Job Posting
 
 Before creating a model, I was able to use data visualization tools in Python to really understand the data. This analysis was important to interperate the data so we know what data to use and what models we want to make. Here is some cool data that I found:
 
-<p class="text-red bg-red-light mb-2">
-  .text-red on .bg-red-light
-</p>
-
-<div class="bg-green-light mb-2">
-  .text-gray-dark on .bg-green-light
-</div>
-
-<div class="bg-purple-light mb-2">
-  .text-gray-dark on .bg-green-light
-</div>
+We were able to anylise where industires were promanat through aout america. This was also a key aspect to our model in estimating applicants in regards to both the state and the industry. Below we visualize 3 indutries and their footprint across America.
 
 <p align="center">
   Technology    |     Nonprofit    |     Pharmacuticals
