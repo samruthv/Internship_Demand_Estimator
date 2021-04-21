@@ -51,11 +51,17 @@ list of information that we scraped from each individual job posting:
 - Job Function
 - Industries
 
+We analysied some of these information later in our analysis phase and found some internesting information that would help in our modeling phase.
+
 Here are the top 20 companies that are using linkedin for Internship Postings
 
 Number of Internship Postings vs Company:
 
 <img src="Additional%20Files/Top20Companies.png" width="400" >
+
+Correlation between how long the application was posted and how many applicants applied. We bviously fond a strong correlation.
+
+<img src="Additional%20Files/Coorelation.png" width="300" >
 
 ## Data Cleaning
 
@@ -96,12 +102,12 @@ Intern Job Postings in Tech by State[Opperunity]:
 
 <img src="Additional%20Files/Tech_comapation_image.PNG" width="400" >
 
-Avererage number of applicants per Job Posting in Tech by State[Demand]:
+Average Number of Applicants per Job Posting in Tech by State[Demand]:
 
 <img src="Additional%20Files/Tech_demand_image.PNG" width="400" >
 
 
-<img src="Additional%20Files/Coorelation.png" width="300" >
+
 
 
 ## Model
