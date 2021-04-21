@@ -84,11 +84,10 @@ Before creating a model, I was able to use data visualization tools in Python to
 </p>
 
 <p align="center">
-  <img src="Additional%20Files/Tech_comapation_image.PNG" width="300" align="right"> <img src="Additional%20Files/Tech_demand_image.PNG" width="300" align="left">
+  <img src="Additional%20Files/Tech_comapation_image.PNG" width="300" > <img src="Additional%20Files/Tech_demand_image.PNG" width="300" align=>
 </p>
 
-<img src="Additional%20Files/Tech_comapation_image.PNG" width="300" >
-<img src="Additional%20Files/Tech_demand_image.PNG" width="300" >
+
 <img src="Additional%20Files/Coorelation.png" width="300" >
 
 
