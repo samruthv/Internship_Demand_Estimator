@@ -64,8 +64,16 @@ List of Industries:
 
 https://github.com/samruthv/LinkedIn_DataScience_Project/blob/main/Additional%20Files/List%20of%20Industries
 
-<img src="Additional%20Files/industry_vs_applicants_per_posting.PNG" width="600" >
+Here is whow the relationship between Industry and job application looks like. We can see that just because there are more oppertunities in ceratin industires does not coorelate to applicants per application.
+
+Industry vs. Number of Internship Job Postings:
+
 <img src="Additional%20Files/industry_vs_job_postings.PNG" width="600" >
+
+Industry vs. Average Number of Applicants per Internship Job Posting
+
+<img src="Additional%20Files/industry_vs_applicants_per_posting.PNG" width="600" >
+
 
 ## Data Analysis
 
