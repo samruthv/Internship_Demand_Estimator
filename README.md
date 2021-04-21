@@ -80,9 +80,9 @@ Industry vs. Average Number of Applicants per Internship Job Posting
 
 Before creating a model, I was able to use data visualization tools in Python to really understand the data. This analysis was important to interperate the data so we know what data to use and what models we want to make. Here is some cool data that I found:
 
-<div class="text-red bg-red-light mb-2">
+<p class="text-red bg-red-light mb-2">
   .text-red on .bg-red-light
-</div>
+</p>
 
 <div class="bg-green-light mb-2">
   .text-gray-dark on .bg-green-light
@@ -116,31 +116,4 @@ Before creating a model, I was able to use data visualization tools in Python to
 
 **Email:** samruthv@gmail.com
 **Phone Number:** 732-317-9426
-
-<div class="text-blue mb-2">
-  .text-blue on white
-</div>
-<div class="text-gray-dark mb-2">
-  .text-gray-dark on white
-</div>
-<div class="text-gray mb-2">
-  .text-gray on white
-</div>
-<div class="text-red mb-2">
-  .text-red on white
-</div>
-<div class="text-orange mb-2">
-  .text-orange on white
-</div>
-<span class="float-left text-red tooltipped tooltipped-n" aria-label="Does not meet accessibility standards"><%= octicon("alert") %></span>
-<div class="text-orange-light mb-2">
-  .text-orange-light on white
-</div>
-<span class="float-left text-red tooltipped tooltipped-n" aria-label="Does not meet accessibility standards"><%= octicon("alert") %></span>
-<div class="text-green mb-2 ml-4">
-  .text-green on white
-</div>
-<div class="text-purple mb-2">
-  .text-purple on white
-</div>
 
