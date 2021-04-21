@@ -82,16 +82,8 @@ Before creating a model, I was able to use data visualization tools in Python to
 
 
 <p align="center">
-  <p align="right" "heloo"> Technology align="left" Nonprofit Pharmacuticals
+  Technology    |     Nonprofit    |     Pharmacuticals
 </p>
-
-<p style="text-align:left;">
-    This text is left aligned
-    <span style="float:right;">
-        This text is right aligned
-    </span>
-</p>
-
 
 <p align="center">
   <img width="300" src="Additional%20Files/Noprofit_image.PNG"> <img src="Additional%20Files/Pharma_image.PNG" width="300" align="right" > <img src="Additional%20Files/Tech_image.PNG" width="300" align="left" >
